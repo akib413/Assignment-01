@@ -133,3 +133,44 @@ button.btn.works {
   color: #627382;
   padding: 0 24px 0;
 }
+.second-brain{
+  width: 100%;
+  display: flex;
+  padding: 120px;
+}
+.brain-img{
+  width: 600px;
+  height: 600px;
+  margin-right: 60px;
+}
+.brain-structure {
+    margin-top: 102px;
+}
+.solution{
+  font-size: 16px;
+  font-weight: 600;
+  color: #469165;
+  margin-bottom: 16px;
+}
+.brain-design{
+  font-size: 48px;
+  margin-bottom: 16px;
+}
+.brain-description{
+  font-size: 16px;
+  color: #627382;
+  line-height: 20px;
+  margin-bottom: 40px;
+}
+.icon-flex{
+  display: flex;
+}
+.checklist{
+  font-size: 16px;
+  margin-bottom: 16px;
+}
+.check{
+  width: 20px;
+  height: 20px;
+  margin-right: 6px;
+}
