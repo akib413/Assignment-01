@@ -40,6 +40,7 @@ nav{
   color: #FFFFFF;
   border: 1px solid transparent;
   border-radius: 4px;
+  cursor: pointer;
 }
 .structured-thinking{
   background-image: url("../assets/hero-bg.png");
@@ -81,7 +82,7 @@ nav{
 .structured-description{
   font-size: 18px;
   color: #FFFFFF;
-  line-height: 24px;
+  line-height: 30px;
   margin-top: 16px;
   margin-bottom: 32px;
 }
@@ -148,7 +149,7 @@ button.btn.works {
 }
 .solution{
   font-size: 16px;
-  font-weight: 600;
+  font-weight: 500;
   color: #469165;
   margin-bottom: 16px;
 }
@@ -226,4 +227,11 @@ button.btn.works {
   font-size: 16px;
   color: #FAFAFA;
   margin-top: 30px;
+}
+.btn:hover {
+    background: #0a155a;
+    color: #ffffff;
+}
+button.btn.works:hover {
+    background: #dddddd33;
 }
