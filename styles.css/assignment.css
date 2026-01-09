@@ -30,7 +30,7 @@ nav{
   text-decoration: none;
   color: #000000;
   font-size: 16px;
-  font-weight: 600;
+  font-weight: 500;
 }
 .btn{
   padding: 13px 16px;
@@ -55,7 +55,7 @@ nav{
 }
 .thinking-title .early-access{
   font-size: 16px;
-  font-weight: 600;
+  font-weight: 500;
   border: 1px solid #FFFFFF;
   text-decoration: none;
   color: #469165;
@@ -234,4 +234,7 @@ button.btn.works {
 }
 button.btn.works:hover {
     background: #dddddd33;
+}
+a.menu-link:hover {
+    color: #0a155a;
 }
