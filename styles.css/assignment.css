@@ -222,6 +222,8 @@ button.btn.works {
 }
 .copyright{
   text-align: center;
+  width: 1360px;
+  margin: 0 auto;
 }
 .disclaimer{
   font-size: 16px;
@@ -237,4 +239,9 @@ button.btn.works:hover {
 }
 a.menu-link:hover {
     color: #0a155a;
+}
+hr {
+    border: none;
+    height: 1px;
+    background-color: #394052;
 }
