@@ -90,3 +90,46 @@ button.btn.works {
     border: 1px solid #FFFFFF;
     margin-left: 16px;
 }
+.notes-structure{
+  width: 100%;
+  text-align: center;
+}
+.notes-fail{
+  padding: 44px 120px;
+}
+.notes{
+  font-size: 48px;
+  font-weight: bold;
+  color: #001931;
+  margin-bottom: 16px;
+}
+.note-description{
+  font-size: 16px;
+  color: #627382;
+}
+.all-notes{
+  display: flex;
+  justify-content: space-between;
+  width: 1360px;
+  height: 300px;
+  align-items: center;
+  margin: 0 auto;
+  gap: 24px;
+}
+.note-img{
+  background-color: #F95555;
+  padding: 32px;
+  border-radius: 50%;
+}
+.scattered{
+  font-size: 24px;
+  color: #001931;
+  margin-top: 16px;
+  margin-bottom: 16px;
+  font-weight: 600;
+}
+.scattered-des{
+  font-size: 16px;
+  color: #627382;
+  padding: 0 24px 0;
+}
