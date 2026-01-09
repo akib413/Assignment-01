@@ -174,3 +174,56 @@ button.btn.works {
   height: 20px;
   margin-right: 6px;
 }
+.challenge{
+  text-align: center;
+  margin: 2px 120px 120px 120px;
+  background-color: #F7F6F2;
+}
+.ready{
+  padding: 80px 40px 24px 40px;
+}
+.readyToThink{
+  font-size: 40px;
+  font-weight: bold;
+  color: #001931;
+  margin-bottom: 16px;
+}
+.ready-description{
+  font-size: 16px;
+  color: #627382;
+  line-height: 24px;
+}
+.free-access{
+  font-size: 16px;
+  color: #627382;
+  margin-top: 16px;
+}
+.get-early-access {
+  padding-bottom: 80px;
+}
+.footer-section{
+  width: 100%;
+  height: 348px;
+  background-color: #001931;
+}
+.footer-img{
+  display: flex;
+  justify-content: space-between;
+  padding: 120px 120px 80px 120px
+}
+.social{
+  font-size: 20px;
+  color: #FFFFFF;
+  margin-bottom: 16px;
+}
+.fa-brands{
+  color: #FFFFFF;
+}
+.copyright{
+  text-align: center;
+}
+.disclaimer{
+  font-size: 16px;
+  color: #FAFAFA;
+  margin-top: 30px;
+}
